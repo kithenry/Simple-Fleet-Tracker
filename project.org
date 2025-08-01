@@ -1,0 +1,23 @@
+#+TITLE: My Project Planning
+#+CATEGORY: myproject
+#+STARTUP: overview
+
+* TODO Preset final deliverable for car management system project
+  - Goal: Create a platform to X
+  - Stakeholders: kodla.io
+  - Deadline: <2025-25-08>
+
+* Milestones
+** TODO Setup GitHub repo
+** TODO Design basic schema
+** TODO Create MVP
+   DEADLINE: <2025-08-20>
+
+* Modules
+** Auth System
+   A. [ ] Register/login
+   B. [ ] JWT setup
+   C. [ ] Email verification
+** UI Polish
+   1) [ ] Color scheme
+   2) [ ] Responsive design

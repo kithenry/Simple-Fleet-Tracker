@@ -1,0 +1,23 @@
+my-project/
+├── README.org                     # High-level overview
+├── project.org                   # Central planning + todos
+├── notes/
+│   ├── 00-index.org              # Links to all notes
+│   └── backend.org               # Notes on backend
+│   └── ui.org                    # Notes on UI
+│   └── api-design.org            # Endpoint specs, etc
+├── tasks/
+│   ├── 00-index.org              # Link to all sub-task files
+│   └── feature-auth.org          # Todos for auth module
+│   └── ui-polish.org             # Todos for UI refinement
+├── timeline/
+│   ├── 2025-07-28.org            # Daily/weekly log
+│   └── sprint-01.org             # Sprint retrospectives, progress
+├── ideas/
+│   └── scratchpad.org            # Brainstorming
+│   └── postponed.org             # Deferred features
+├── resources/
+│   └── references.org            # External links, papers, examples
+├── src/                          # Your source code
+│   └── main.py / index.js / etc
+└── .dir-locals.el                # Optional: make this project-specific

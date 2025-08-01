@@ -1,0 +1,5 @@
+* Auth Module Tasks
+** TODO Add registration endpoint
+** TODO Add login endpoint
+** TODO Token expiration handling
+** TODO Password hashing
