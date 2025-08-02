@@ -13,8 +13,11 @@
 
 
 ## Project timeline
-- [ ] WEEK 1: Setup Supabase Project and Electron.js Boilerplate
+- [x] WEEK 1: Setup Supabase Project and Electron.js Boilerplate
       Time span: 28th July to 4th Aug
+      Completed earlier than anticipated.
+      Ahead of schedule. Code still unsafe.
+      Nodeintegration true, contextisolation false
 - [ ] WEEK 2: Implement CRUD Functionality (Add/View/Delete/Update)
       Time span: 5th Aug to 11th Aug
 - [ ] WEEK 3: Improve UI with Bootstrap, Implement Search Feature
