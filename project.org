@@ -1,5 +1,5 @@
-#+TITLE: My Project Planning
-#+CATEGORY: myproject
+#+TITLE: Simple fleet tracker
+#+CATEGORY: internwork
 #+STARTUP: overview
 
 * TODO Preset final deliverable for car management system project
@@ -8,8 +8,8 @@
   - Deadline: <2025-25-08>
 
 * Milestones
-** TODO Setup GitHub repo
-** TODO Design basic schema
+** DONE Setup GitHub repo
+** DONE Design basic schema
 ** TODO Create MVP
    DEADLINE: <2025-08-20>
 

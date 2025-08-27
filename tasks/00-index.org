@@ -1,0 +1,3 @@
+- Quick supabase recap
+- 3 extra features
+- Custom UI design

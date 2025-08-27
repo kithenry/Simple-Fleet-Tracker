@@ -1,9 +1,10 @@
-./tool_school
+tool_school
 project.org
 ideas
 dirstruct.txt
 notes
 README.org
-./tasks
-./timeline
-./src/node_modules
+tasks/
+timeline/
+src/node_modules/
+src/out/
